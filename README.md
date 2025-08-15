@@ -101,7 +101,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/achrefrhouma/brainspark.git
+   git clone https://github.com/achrefrhouma/brainspark.git](https://github.com/AchrefRhm/BrainSpark---Personal-Idea-Notebook.git
    cd brainspark
    ```
 
